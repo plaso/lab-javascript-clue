@@ -105,7 +105,7 @@ function pickMystery() {
   }
 }
 
-
+console.log('patata')
 // ITERATION 3
 
 function revealMystery(envelope) {
